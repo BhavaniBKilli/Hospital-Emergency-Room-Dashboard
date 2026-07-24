@@ -1,7 +1,6 @@
-# Hospital-Emergency-Room-Dashboar
+## 🏥 Hospital Emergency Room Dashboard | Power BI
 
-🏥 Hospital Emergency Room Dashboard | Power BI
-📖 About the Project
+## 📖 About the Project
 Emergency departments generate large volumes of patient data every day. Without an interactive reporting system, it can be difficult to monitor patient flow, waiting times, admissions, referrals, and overall operational performance.
 This project uses Power BI to transform raw emergency room data into an interactive dashboard that helps stakeholders monitor key performance indicators and identify trends to support operational decision-making.
 
@@ -51,8 +50,9 @@ DAX-based KPIs
 Power Query Data Transformation
 
 ## 📷 Dashboard Preview
+## 
 
-🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 Data Cleaning
 Data Transformation
 Data Modeling
