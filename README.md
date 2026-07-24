@@ -72,5 +72,10 @@ Dashboard Design
 Data Visualization
 Healthcare Data Analysis
 Business Intelligence
-💡 Key Learnings
+
+## 💡 Key Learnings
 Through this project, I strengthened my skills in Power BI by building an end-to-end dashboard, writing DAX measures, creating relationships, designing interactive reports, and converting healthcare data into actionable business insights.
+
+⭐ Conclusion This project demonstrates my ability to build interactive Power BI dashboards, create DAX measures, transform data using Power Query, and present meaningful business insights through data visualization.
+
+If you found this project useful, please ⭐ star the repository.
