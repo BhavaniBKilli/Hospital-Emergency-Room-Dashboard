@@ -50,7 +50,19 @@ DAX-based KPIs
 Power Query Data Transformation
 
 ## 📷 Dashboard Preview
-## 
+
+### Monthly View Dashboard
+![Monthly View Dashboard](monthly-view-dashboard.png)
+
+### Consolidated view
+![Consolidated view](Consolidated view.png)
+
+### Patient Details Dashboard
+![Patient Details Dashboard](patient-details-dashboard.png)
+
+### Key Insights Dashboard
+![Key Insights Dashboard](key-insights-dashboard.png)
+
 
 ## 🚀 Skills Demonstrated
 Data Cleaning
