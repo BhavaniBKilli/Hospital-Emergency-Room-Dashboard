@@ -51,18 +51,17 @@ Power Query Data Transformation
 
 ## 📷 Dashboard Preview
 
-### Monthly View Dashboard
-![Monthly View Dashboard](monthly-view-dashboard.png)
+### Dashboard 1
+![Dashboard 4](Screenshot%20(68).png)
 
-### Consolidated view
-![Consolidated view](Consolidated view.png)
+### Dashboard 2
+![Dashboard 1](Screenshot%20(65).png)
 
-### Patient Details Dashboard
-![Patient Details Dashboard](patient-details-dashboard.png)
+### Dashboard 3
+![Dashboard 2](Screenshot%20(66).png)
 
-### Key Insights Dashboard
-![Key Insights Dashboard](key-insights-dashboard.png)
-
+### Dashboard 4
+![Dashboard 3](Screenshot%20(67).png)
 
 ## 🚀 Skills Demonstrated
 Data Cleaning
